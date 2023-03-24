@@ -4,7 +4,7 @@ In This The Capabilities of Tesseract to detect mathematical symbols and numbers
 
 The Fonts used for this were used from GIMP editor 
 
-#The fonts used for the images are:
+# The fonts used for the images are:
 
 1 Segoe Print
 
